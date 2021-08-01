@@ -1,0 +1,26 @@
+body {
+    background-color: beige;
+}
+
+#main-group {
+    background-color: aqua;
+    padding: 12px 12px 12px 12px;
+    margin: 12px 12px 12px 12px;
+}
+
+#inner-group {
+    background-color: chocolate;
+    padding: 12px 12px 12px 12px;
+    margin: 12px 920px 12px 220px;
+}
+
+span {
+    border-style: solid;
+    border-radius: 5px;
+    padding: 5px 5px 5px 5px;
+    font-size: 60px;
+    background-color: aquamarine;
+    margin-left: auto;
+    margin-right: auto;
+    transform: translate(-50%, -50%);
+}
